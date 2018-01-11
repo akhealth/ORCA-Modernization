@@ -39,6 +39,6 @@ Working in tightly-scoped sprints to incrementally enhance the existing child we
 ## Ongoing Strategic Concerns
 
 ## Contributing to this repo
-* Read the [CONTRIBUTING](CONTRIBUTING.md) Policy
-* Questions or suggestions? Open a [new issue](../../issues) to ask or suggest.
-* Want to send us a change? Create a new [pull request](../../pulls).
+* Read the [CONTRIBUTING](/AlaskaDHSS/ORCA-Modernization/blob/master/CONTRIBUTING.md) Policy
+* Questions or suggestions? Open a [new issue](/AlaskaDHSS/ORCA-Modernization/issues) to ask or suggest.
+* Want to send us a change? Create a new [pull request](/AlaskaDHSS/ORCA-Modernization/pulls).
