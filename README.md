@@ -24,11 +24,6 @@ Using the product roadmap, OCS staff and 18F will identify discrete modules that
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices. 
 
-## Risks 
-
-* Focus on users. There is a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
-* Feasibility of encasement strategy. It is currently unknwon how feasible the encasement approach to legacy modernization is for the existing ORCA system.
-
 ## Near-term Milestones
 
 - [x] Begin organizing work in sprints and conducting regular agile ceremonies.
@@ -37,7 +32,12 @@ Before OCS can adopt a modular procurement strategy and adopt agile practices, i
 - [ ] Develop initial version of product roadmap.
 - [ ] Identify opportunities to prototype and de-risk initial procurements 
 
-## Ongoing Strategic Concerns
+## Risks 
+
+* Focus on users. There is a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
+* Feasibility of encasement strategy. It is currently unknwon how feasible the encasement approach to legacy modernization is for the existing ORCA system.
+
+## Ongoing Strategic Issues
 
 * Identifying vendors that are proficient in agile practices to bid on modular contracts.
 * Determining whether partial changes to existing ORCA system will be sufficient to achieve project goals, or if more wholesale modifications / updates will be needed.
