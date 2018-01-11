@@ -1,16 +1,16 @@
 # ORCA-Modernization
 
-This repo contains documentation describing the Alaska Department of Health and Social Services, Office of Children's Services (OCS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project 'home page' where members can access important and up-to-date project information that exists somewhere else.
+This repo contains documentation describing the Alaska Department of Health and Social Services, Office of Children's Services (OCS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project “home page” where members can access important and up-to-date project information that exists somewhere else.
 
 ## Project Vision
 
-Alaska OCS is developing a modern Comprehensive Child Welfare Information System (CCWIS) that enables staff to more efficiently provide services to children in need, integrate with other state agencies, and comply with the latest [federal requirements](https://www.law.cornell.edu/cfr/text/45/1355.52) for child welfare systems. Utilizing [agile development](https://modularcontracting.18f.gov/agile-development/) and [modular procurements](https://modularcontracting.18f.gov/modular-procurement/), OCS has the goal of implementing a CCWIS system that not only meets state and federal standards, but is user friendly for our clients, OCS staff, and state technical staff.
+Alaska OCS is developing a modern Comprehensive Child Welfare Information System (CCWIS) that enables staff to more efficiently provide services to children in need, integrate with other state agencies, and comply with the latest [federal requirements](https://www.law.cornell.edu/cfr/text/45/1355.52) for child welfare systems. Using [agile development](https://modularcontracting.18f.gov/agile-development/) and [modular procurements](https://modularcontracting.18f.gov/modular-procurement/), OCS has the goal of implementing a CCWIS system that not only meets state and federal standards, but is user-friendly for our clients, OCS staff, and state technical staff.
 
 ## Objectives
 
 ### Develop a product roadmap
 
-A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. the product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
+A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
 
 ### Develop a modular procurement strategy
 
