@@ -8,6 +8,10 @@ Alaska OCS is developing a modern Comprehensive Child Welfare Information System
 
 ## Objectives
 
+### Adopt agile practices
+
+Working in tightly-scoped sprints to incrementally enhance the existing child welfare system will be a key to the success of a modular procurement strategy. Adopting agile practices early, even before a vendor is engaged and code is shipped, will ensure that OCS has the capacity to successfully engage with vendors. 
+
 ### Develop a product roadmap
 
 A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
@@ -20,13 +24,10 @@ Using the product roadmap, OCS staff and 18F will identify discrete modules that
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices. 
 
-### Adopt agile practices
-
-Working in tightly-scoped sprints to incrementally enhance the existing child welfare system will be a key to the success of a modular procurement strategy. Adopting agile practices early, even before a vendor is engaged and code is shipped, will ensure that OCS has the capacity to successfully engage with vendors. 
-
 ## Risks 
 
 * Focus on users. There is a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
+* Feasibility of encasement strategy. It is currently unknwon how feasible the encasement approach to legacy modernization is for the existing ORCA system.
 
 ## Near-term Milestones
 
@@ -37,6 +38,9 @@ Working in tightly-scoped sprints to incrementally enhance the existing child we
 - [ ] Identify opportunities to prototype and de-risk initial procurements 
 
 ## Ongoing Strategic Concerns
+
+* Identifying vendors that are proficient in agile practices to bid on modular contracts.
+* Determining whether partial changes to existing ORCA system will be sufficient to achieve project goals, or if more wholesale modifications / updates will be needed.
 
 ## Contributing to this repo
 * Read the [CONTRIBUTING](/AlaskaDHSS/ORCA-Modernization/blob/master/CONTRIBUTING.md) Policy
