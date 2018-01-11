@@ -10,19 +10,19 @@ Alaska OCS is developing a modern Comprehensive Child Welfare Information System
 
 ### Develop a product roadmap
 
-A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stkholders the near and long-term objectives of the project. the prpduct roadmap will be used to identify different modules and components that can be targetted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
+A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. the product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
 
 ### Develop a modular procurement strategy
 
-Using the product roadmap, OCS staff and 18F will identify discrete modules that can be encapsulated into modular procurements - narrow low-risk acquisitions that can be used to incrementally modernize the existing child welfare system. Devloping this strategy will entail identifying interested vendors that are proficient in agile software devleopment, building out techncial prototypes to validate issues and lower risk, and working to continually improve the overall acquisition strategy through the application of agile prnciples like continous improvement.
+Using the product roadmap, OCS staff and 18F will identify discrete modules that can be encapsulated into modular procurements - narrow low-risk acquisitions that can be used to incrementally modernize the existing child welfare system. Developing this strategy will entail identifying interested vendors that are proficient in agile software development, building out technical prototypes to validate issues and lower risk, and working to continually improve the overall acquisition strategy through the application of agile principles like continuous improvement.
 
 ### Put in place out a DevOps infrastructure
 
-Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipline are essential to the succesful adoption of agile practices. 
+Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices. 
 
 ### Adopt agile practices
 
-Working in tightly-scoped sprints to incrementally enhance the existing child welfare system will be a key to the success of a modular procurment starategy. Adopting agile practices eaely, even before a vendor is engaged and code is shipped, will ensure that OCS has the capacity to successfully engage with vendors. 
+Working in tightly-scoped sprints to incrementally enhance the existing child welfare system will be a key to the success of a modular procurement strategy. Adopting agile practices early, even before a vendor is engaged and code is shipped, will ensure that OCS has the capacity to successfully engage with vendors. 
 
 ## Risks 
 
@@ -30,11 +30,11 @@ Working in tightly-scoped sprints to incrementally enhance the existing child we
 
 ## Near-term Milestones
 
-- [x] Begin organiaing work in sprints and conducting reglaur agile ceremonies.
+- [x] Begin organizing work in sprints and conducting regular agile ceremonies.
 - [ ] Begin technical assessment of existing ORCA system (in progress).
 - [ ] Put in place initial build and deployment pipeline for ORCA code (in progress). 
 - [ ] Develop initial version of product roadmap.
-- [ ] Identify opportunites to prototype and derisk initial procurments 
+- [ ] Identify opportunities to prototype and de-risk initial procurements 
 
 ## Ongoing Strategic Concerns
 
