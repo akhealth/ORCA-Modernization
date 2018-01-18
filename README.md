@@ -29,13 +29,13 @@ Before OCS can adopt a modular procurement strategy and adopt agile practices, i
 - [x] Begin organizing work in sprints and conducting regular agile ceremonies.
 - [ ] Begin technical assessment of existing ORCA system (in progress).
 - [ ] Put in place initial build and deployment pipeline for ORCA code (in progress). 
-- [ ] Develop initial version of product roadmap.
-- [ ] Identify opportunities to prototype and de-risk initial procurements 
+- [ ] Develop initial version of product roadmap. (not yet started)
+- [ ] Identify opportunities to prototype and de-risk initial procurements. (not yet started)
 
 ## Risks 
 
 * Focus on users. There is a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
-* Feasibility of encasement strategy. It is currently unknwon how feasible the encasement approach to legacy modernization is for the existing ORCA system.
+* Feasibility of encasement strategy. It is currently unknown how feasible the encasement approach to legacy modernization is for the existing ORCA system.
 
 ## Ongoing Strategic Issues
 
