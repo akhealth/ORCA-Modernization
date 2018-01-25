@@ -20,7 +20,7 @@ A key asset for this work will be the development of a product roadmap to guide 
 
 Using the product roadmap, OCS staff and 18F will identify discrete modules that can be encapsulated into modular procurements - narrow low-risk acquisitions that can be used to incrementally modernize the existing child welfare system. Developing this strategy will entail identifying interested vendors that are proficient in agile software development, building out technical prototypes to validate issues and lower risk, and working to continually improve the overall acquisition strategy through the application of agile principles like continuous improvement.
 
-### Put in place out a DevOps infrastructure
+### Put in place a DevOps infrastructure
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices. 
 
