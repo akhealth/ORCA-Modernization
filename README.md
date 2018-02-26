@@ -6,15 +6,33 @@ This repo contains documentation describing the Alaska Department of Health and 
 
 Alaska OCS is developing a modern Comprehensive Child Welfare Information System (CCWIS) that enables staff to more efficiently provide services to children in need, integrate with other state agencies, and comply with the latest [federal requirements](https://www.law.cornell.edu/cfr/text/45/1355.52) for child welfare systems. Using [agile development](https://modularcontracting.18f.gov/agile-development/) and [modular procurements](https://modularcontracting.18f.gov/modular-procurement/), OCS has the goal of implementing a CCWIS system that not only meets state and federal standards, but is user-friendly for our clients, OCS staff, and state technical staff.
 
+A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
+
 ## Objectives
+
+The initial procurement for this effort will focus on enhancing mobile access to ORCA for targeted users of the system. Initially, the mobility efforts will focus on initial assessment workers that need to access specific assets in the ORCA system. 
+
+This initial focus will help the product team to:
+
+* Deliver value quickly to end users.
+* Identify a technical strategy that will support OCS efforts to enhance the system for end users, and align with the requirements of CCWIS
+* Support the build out of a fuller product roadmap, to communicate to users and stakeholders the future direction of the project.
+* Allow OCS and 18F to "road test" both a modular procurements strategy and a DevOps infrastructure for working with vendors.
+
+## Near-term Milestones
+
+- [x] Begin organizing work in sprints and conducting regular agile ceremonies.
+- [x] Identify users that can participate in research sessions to help prioritize needs for initial mobility effort.
+- [x] Begin technical assessment of existing ORCA system .
+- [ ] Put in place initial build and deployment pipeline for ORCA code (in progress). 
+- [ ] Develop initial version of product roadmap. (not yet started)
+- [ ] Identify opportunities to prototype and de-risk initial procurements. (not yet started)
+
+## Strategies
 
 ### Adopt agile practices
 
 Working in tightly-scoped sprints to incrementally enhance the existing child welfare system will be a key to the success of a modular procurement strategy. Adopting agile practices early, even before a vendor is engaged and code is shipped, will ensure that OCS has the capacity to successfully engage with vendors. 
-
-### Develop a product roadmap
-
-A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
 
 ### Develop a modular procurement strategy
 
@@ -24,18 +42,11 @@ Using the product roadmap, OCS staff and 18F will identify discrete modules that
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices. 
 
-## Near-term Milestones
-
-- [x] Begin organizing work in sprints and conducting regular agile ceremonies.
-- [ ] Begin technical assessment of existing ORCA system (in progress).
-- [ ] Put in place initial build and deployment pipeline for ORCA code (in progress). 
-- [ ] Develop initial version of product roadmap. (not yet started)
-- [ ] Identify opportunities to prototype and de-risk initial procurements. (not yet started)
-
 ## Risks 
 
-* Focus on users. There is a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
-* Feasibility of encasement strategy. It is currently unknown how feasible the encasement approach to legacy modernization is for the existing ORCA system.
+* Ensuring a focus on end users. There may be a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
+* Compliance with CCWIS. Future funding from ACF is linked to compliance with CCWIS requirements, and ORCA modernization / enhancement efforts will need to help OCS achieve this goal.
+* Feasibility of encasement strategy. It is currently unknown how feasible 18F's standard "encasement" approach to legacy modernization is for the existing ORCA system.
 
 ## Ongoing Strategic Issues
 
