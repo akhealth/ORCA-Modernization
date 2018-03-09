@@ -1,0 +1,3 @@
+# Technical Strategy
+
+We will identify a portion of ORCA’s functionality that can be modernized, balancing the need for adding functionality that’s of high value on mobile devices against the feasibility of opening access to that ORCA functionality within the existing Java structure. Then the existing functionality will be rewritten in a new, modernized module, using the software environment of OCS’s choosing (e.g., C# on .NET), using a responsive design (perhaps even as a progressive web app), to provide robust support for all possible clients. Finally, the old, now-redundant functionality will be eliminated.
