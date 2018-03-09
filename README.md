@@ -44,13 +44,15 @@ Using the product roadmap, OCS staff and 18F will identify discrete modules that
 
 ### Put in place a DevOps infrastructure
 
-Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices. 
+Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices.
 
 ## Risks 
 
 * Ensuring a focus on end users. There may be a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
 * Compliance with CCWIS. Future funding from ACF is linked to compliance with CCWIS requirements, and ORCA modernization / enhancement efforts will need to help OCS achieve this goal.
 * Feasibility of encasement strategy. It is currently unknown how feasible 18F's standard "encasement" approach to legacy modernization is for the existing ORCA system.
+* ORCA contains considerable technical debt, [as documented](TechnicalDebt.md).
+* See [Technical Risks](TechnicalRisks.md) for more.
 
 ## Ongoing Strategic Issues
 
