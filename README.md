@@ -1,6 +1,6 @@
 # ORCA-Modernization
 
-This repo contains documentation describing the Alaska Department of Health and Social Services, Office of Children's Services (OCS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project “home page” where members can access important and up-to-date project information that exists somewhere else.
+This repo contains documentation describing the Alaska Department of Health and Social Services, Office of Children's Services (OCS) modernization project. It is intended to be a place where project participants can keep track of the overall project goals, the decision framework, progress to date and learnings as we work. It is also intended to be a project home page where members can access important and up-to-date project information that exists somewhere else.
 
 ## Project Vision
 
