@@ -10,7 +10,7 @@ A key asset for this work will be the development of a product roadmap to guide 
 
 ## Objectives
 
-The initial procurement for this effort will focus on enhancing mobile access to ORCA for targeted users of the system. Initially, the mobility efforts will focus on initial assessment workers that need to access specific assets in the ORCA system. 
+The initial procurement for this effort will focus on workload Dashboards for targeted users of the system. Initially, the Dashboard effort will serve as the .NET pilot project, and for building a new API and API connections points. 
 
 This initial focus will help the product team to:
 
@@ -18,6 +18,7 @@ This initial focus will help the product team to:
 * Identify a technical strategy that will support OCS efforts to enhance the system for end users, and align with the requirements of CCWIS
 * Support the build out of a fuller product roadmap, to communicate to users and stakeholders the future direction of the project.
 * Allow OCS and 18F to "road test" both a modular procurements strategy and a DevOps infrastructure for working with vendors.
+* de-risk efforts to migrate to .NET by prototyping
 
 ## Near-term Milestones
 
@@ -25,7 +26,7 @@ This initial focus will help the product team to:
 - [x] Identify users that can participate in research sessions to help prioritize needs for initial mobility effort.
 - [x] Begin technical assessment of existing ORCA system .
 - [ ] Put in place initial build and deployment pipeline for ORCA code (in progress). 
-- [ ] Develop initial version of product roadmap. (not yet started)
+- [ ] Develop initial version of product roadmap. (in progress)
 - [ ] Identify opportunities to prototype and de-risk initial procurements. (not yet started)
 
 ## Strategies
