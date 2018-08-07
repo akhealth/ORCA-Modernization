@@ -37,19 +37,35 @@ We will identify a portion of ORCA’s functionality that can be modernized, bal
 ### Adopt agile practices
 
 Working in tightly-scoped sprints to incrementally enhance the existing child welfare system will be a key to the success of a modular procurement strategy. Adopting agile practices early, even before a vendor is engaged and code is shipped, will ensure that OCS has the capacity to successfully engage with vendors. 
-
-### Develop a modular procurement strategy
-
-Using the product roadmap, OCS staff and 18F will identify discrete modules that can be encapsulated into modular procurements - narrow low-risk acquisitions that can be used to incrementally modernize the existing child welfare system. Developing this strategy will entail identifying interested vendors that are proficient in agile software development, building out technical prototypes to validate issues and lower risk, and working to continually improve the overall acquisition strategy through the application of agile principles like continuous improvement.
+ product roadmap, OCS staff and 18F will identify discrete modules that can be encapsulated into modular procurements - narrow low-risk acquisitions that can be used to incrementally modernize the existing child welfare system. Developing this strategy will entail identifying interested vendors that are proficient in agile software development, building out technical prototypes to validate issues and lower risk, and working to continually improve the overall acquisition strategy through the application of agile principles like continuous improvement.
 
 ### Put in place a DevOps infrastructure
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices.
 
+### Adopt CCWIS Regulations
+
+Embrace the CCWIS rule concepts of modularity, portability, reusability, data exchange expansion, application mobility, and data quality.
+
+#### Modularity
+
+CCWIS systems must be built in modules, making it less likely that any necessary upgrade or change will be cost prohibitive. The rule provides agencies with the flexibility to determine the size, scope and functionality of their information systems. The rule requires CCWIS automated functions to be built as independent modules that may be reused in other systems or be replaced by newer modules withe more capabilities. 
+
+#### Data Sharing
+
+CCWIS systems must be built with the capability to interface with other data systems such as from schools, juvenile justice agencies, and courts. Data exhange capabilities should be leveraged within the application, and with external partners.
+
+#### Reusable/Exportable Code
+
+CCWIS systems must be built with business rules separated from core programming rules, with design concepts documented in plain language. Code developed for CCWIS modules must be shareable and reusable whenever possible.
+
 ## Risks 
 
 * Ensuring a focus on end users. There may be a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
-* Compliance with CCWIS. Future funding from ACF is linked to compliance with CCWIS requirements, and ORCA modernization / enhancement efforts will need to help OCS achieve this goal.
+* Complia
+### Develop a modular procurement strategy
+
+Using thence with CCWIS. Future funding from ACF is linked to compliance with CCWIS requirements, and ORCA modernization / enhancement efforts will need to help OCS achieve this goal.
 * Feasibility of encasement strategy. It is currently unknown how feasible 18F's standard "encasement" approach to legacy modernization is for the existing ORCA system.
 * ORCA contains considerable technical debt, [as documented](TechnicalDebt.md).
 * See [Technical Risks](TechnicalRisks.md) for more.
