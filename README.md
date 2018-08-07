@@ -46,6 +46,10 @@ Using the product roadmap, OCS staff and 18F will identify discrete modules that
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices.
 
+### Develop a Product Roadmap
+
+Develop a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
+
 ## Risks 
 
 * Ensuring a focus on end users. There may be a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
