@@ -6,8 +6,6 @@ This repo contains documentation describing the Alaska Department of Health and 
 
 Alaska OCS is developing a modern Comprehensive Child Welfare Information System (CCWIS) that enables staff to more efficiently provide services to children in need, integrate with other state agencies, and comply with the latest [federal requirements](https://www.law.cornell.edu/cfr/text/45/1355.52) for child welfare systems. Using [agile development](https://modularcontracting.18f.gov/agile-development/) and [modular procurements](https://modularcontracting.18f.gov/modular-procurement/), OCS has the goal of implementing a CCWIS system that not only meets state and federal standards, but is user-friendly for our clients, OCS staff, and state technical staff.
 
-A key asset for this work will be the development of a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
-
 ## Objectives
 
 The initial procurement for this effort will focus on enhancing mobile access to ORCA for targeted users of the system. Initially, the mobility efforts will focus on initial assessment workers that need to access specific assets in the ORCA system. 
