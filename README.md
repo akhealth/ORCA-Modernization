@@ -49,7 +49,7 @@ Develop a product roadmap to guide the efforts of OCS staff and to communicate t
 ## Risks 
 
 * Ensuring a focus on end users. There may be a strong incentive to develop a CCWIS system provided by the new regulations promulgated by DHSS/ACF. Ensuring the effort to modernize the existing system is focused on delivering value to end users will require effort on the part of OCS and 18F. 
-* Complia
+* Compliance with CCWIS. Future funding from ACF is linked to compliance with CCWIS requirements, and ORCA modernization / enhancement efforts will need to help OCS achieve this goal. 
 ### Develop a modular procurement strategy
 
 Using thence with CCWIS. Future funding from ACF is linked to compliance with CCWIS requirements, and ORCA modernization / enhancement efforts will need to help OCS achieve this goal.
