@@ -42,21 +42,9 @@ Working in tightly-scoped sprints to incrementally enhance the existing child we
 
 Before OCS can adopt a modular procurement strategy and adopt agile practices, it needs to develop a capacity to accept work delivered in an iterative fashion. Adopting DevOps practices and constructing a delivery pipeline are essential to the successful adoption of agile practices.
 
-### Adopt CCWIS Regulations
+### Develop a Product Roadmap
 
-Embrace the CCWIS rule concepts of modularity, portability, reusability, data exchange expansion, application mobility, and data quality.
-
-#### Modularity
-
-CCWIS systems must be built in modules, making it less likely that any necessary upgrade or change will be cost prohibitive. The rule provides agencies with the flexibility to determine the size, scope and functionality of their information systems. The rule requires CCWIS automated functions to be built as independent modules that may be reused in other systems or be replaced by newer modules withe more capabilities. 
-
-#### Data Sharing
-
-CCWIS systems must be built with the capability to interface with other data systems such as from schools, juvenile justice agencies, and courts. Data exhange capabilities should be leveraged within the application, and with external partners.
-
-#### Reusable/Exportable Code
-
-CCWIS systems must be built with business rules separated from core programming rules, with design concepts documented in plain language. Code developed for CCWIS modules must be shareable and reusable whenever possible.
+Develop a product roadmap to guide the efforts of OCS staff and to communicate to vendors and other stakeholders the near and long-term objectives of the project. The product roadmap will be used to identify different modules and components that can be targeted for modular procurements to build out the new CCWIS system incrementally. The product roadmap will be a living document, updated frequently to reflect learnings from procurements, changing priorities and input from stakeholders.
 
 ## Risks 
 
