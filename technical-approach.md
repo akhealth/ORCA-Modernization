@@ -1,6 +1,6 @@
 ## Modular procurements
 
--   In accordance with our [modular acquisition approach](#) and consistent with [best practices for technology procurements](http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/39.htm#P34_5241),
+-   In accordance with our [modular acquisition approach](https://github.com/AlaskaDHSS/ORCA-Modernization/blob/master/procurement-strategy.md) and consistent with [best practices for technology procurements](http://farsite.hill.af.mil/reghtml/regs/far2afmcfars/fardfars/far/39.htm#P34_5241),
     OCS will be modernizing the ORCA system through a series of
     relatively-smaller procurements for well-defined feature sets.
 
