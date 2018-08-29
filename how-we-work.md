@@ -96,7 +96,7 @@ We practice testing at three levels: unit tests, integration tests, and feature 
 
 ### Pull Request Process
 
-Documented in our [DevSecOpsMVP repo](https://github.com/AlaskaDHSS/DevSecOpsMvp/blob/master/vsts/GitBranchingStrategy.md).
+Documented in our [VSTS wiki](https://alaskadhss.visualstudio.com/Dpa/_git/Dpa-Eisr-DevSecOps?path=%2FVSTS%2FGitBranchingStragtegy.md&version=GBstaging).
 
 ### Code Review Process
 
@@ -104,7 +104,7 @@ Documented in **our Code Review Process** (Link to come).
 
 ### DevSecOps
 
-We rely on [DevSecOps](https://github.com/dhssalaska/acq-alaska-dhss-modernization/blob/master/DevSecOps.md) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
+We rely on [DevSecOps](technical-approach.md#devops---new-project-delivery) for automation and monitoring of code integration, testing, and deployment. Our DevSecOps pipeline is built atop VSTS (not GitHub) for deployment to Azure. We practice continuous integration, continuous deployment, and continuous testing (including security testing). All new code has tests developed simultaneously, with cumulative test coverage of not less than 90%. See “Accepting Vendor Work” for more.
 For details, see our [“Technical approach” document](technical-approach.md).
 
 ## Tools
